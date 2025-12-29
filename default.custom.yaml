@@ -4,8 +4,8 @@ patch:
     - schema: double_pinyin_flypy
     - schema: latin_international
     - schema: kyril_international
-    - schema: greek
     - schema: arabic
+    - schema: greek
 
   menu/page_size: 9
 
