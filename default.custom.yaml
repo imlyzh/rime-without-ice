@@ -6,6 +6,7 @@ patch:
     - schema: kyril_international
     - schema: arabic
     - schema: greek
+    - schema: japanese
 
   menu/page_size: 9
 
